@@ -1,0 +1,35 @@
+/* Global */
+*{
+    padding: 0px;
+    margin: 0px;
+} 
+
+/* App bar */
+.headbar {
+    background-color: #eeeeee;
+}
+
+/* Channels list */
+.channel-list {
+    list-style: none;
+}
+
+.channel-list li {
+    background-color: white;
+    box-sizing: border-box;
+    padding: 22px;
+    height: 66px;
+}
+
+.date {
+    font-size: small;
+    background-color: inherit;
+}
+
+.channel-name {
+    background-color: inherit;
+    font-size: larger;
+}
+
+/* Messages */
+
